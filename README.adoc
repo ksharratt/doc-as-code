@@ -1,0 +1,7 @@
+= Writing documentation as codd
+
+== usage
+
+This is a presentation pack, used to share motivations and advantages in moving to a doc-as-code approach.
+
+
