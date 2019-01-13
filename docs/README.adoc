@@ -26,4 +26,7 @@ What and why grade?
 
 What is Asciibinder
 
+link::http://asciibinder.org[]
+
+//this is a good demo https://www.cloudbees.com/blog/continuous-documentation-jenkins-asciidoctor-and-gradle
 
