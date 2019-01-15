@@ -4,4 +4,4 @@
 
 This is a presentation pack, used to share motivations and advantages in moving to a doc-as-code approach.
 
-
+include::http://mgreau.com/posts/2016/03/28/asciidoc-to-gh-pages-with-travis-ci-docker-asciidoctor.html[]
